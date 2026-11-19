@@ -1,6 +1,6 @@
 # Email Agent
 
-AI email + CRM assistant for the Ohio OST (Kaitlyn) and Texas STAAR (Patricia) mailboxes.
+AI email + CRM assistant for  mailboxes.
 Draft-first: **nothing is sent without your approval.**
 
 ## Status
