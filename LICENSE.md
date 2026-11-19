@@ -2,7 +2,7 @@ Copyright (c) 2026 YOUR NAME
 
 ALL RIGHTS RESERVED.
 
-This software and its source code are the exclusive property of YOUR NAME.
+This software and its source code are the exclusive property of SATHWIK N H .
 
 No permission is granted to any person or organization to:
 
@@ -19,4 +19,4 @@ without prior written permission from the copyright holder.
 Permission may be granted on a case-by-case basis by the copyright holder.
 
 For permission requests, contact:
-YOUR_EMAIL
+sathwiknh@gmail.com
